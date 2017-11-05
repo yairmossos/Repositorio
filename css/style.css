@@ -1,0 +1,163 @@
+#contenedor{
+	width: 1200px;
+	height: auto;
+	margin: auto;
+	position: relative;;
+}	
+
+body{
+	background: white;
+}
+
+header{
+
+	width: 1200px;
+	height: 120px;
+	border-style: solid;
+	border-color: #004669;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px;  
+	margin-top: 10px;
+}	
+
+h1{
+	color: #004669;
+	font-size: 40px;
+	text-align: right;
+	float: left;
+}	
+
+h2{
+	color: #004669;
+	font-size: 20px;
+	text-align: center;
+}
+
+nav{
+	width: 1200px;
+	height: 40px;
+	background: #004669;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px;
+	border-style: solid;
+	border-color: #004669;
+}
+
+ul{
+	margin: auto;
+	padding-top: 5px;  
+}		
+
+li{
+	float:left;
+	list-style-type: none;
+	margin: 5px;
+}
+
+a{
+	text-decoration: none;
+	font-size: 25px;
+	color: white;
+}
+
+.menu:link{color:white; text-decoration: none}
+.menu:visited{color:white; text-decoration: none;}
+.menu:hover{color:white; text-decoration: none; background:#e7b200;}
+.menu:active{color:white; text-decoration: none;}
+
+section{
+
+	width: 668px;
+	height: 1090px;
+	float:left;
+	border-style: solid;
+	border-color: #004669;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px;  
+}
+
+aside{
+
+	width: 500px;
+	height: 1090px;
+	float:left;
+	border-style: solid;
+	border-color: #004669;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px;
+	margin-left: 20px;  
+}
+
+footer{
+	width: 1200px;
+	height: 220px;
+	background: black;
+	color: white;
+	float:left;
+	border-style: solid;
+	border-color: black;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px;
+	
+}
+
+p{
+	padding: 10px;
+	text-align: justify;
+
+}
+
+h3{
+	padding: 10px;
+	font-size: 25px;
+}
+
+#img1{
+	padding: 15px;
+	width: 460px;
+}
+#img2{
+	padding: 10px;
+	width: 35px;
+}
+#img3{
+	padding: 10px;
+	width: 35px;
+}
+#img4{
+	padding: 10px;
+	width: 35px;
+}
+#img5{
+	padding: 10px;
+	width: 35px;
+}
+#img6{
+	padding: 10px;
+	width: 35px;
+}
+#Logo{
+	padding: 10px;
+	width: 280px;
+	margin-left: auto;
+	float: left;
+}
+
+#footer{
+	padding: 10px;
+	font-size: 8px;
+	float:none;
+	text-align: center;
+	margin-right: 10px;
+	text-align: center;	 	 
+
+}
+
+#video1{
+	padding: 10px;
+}
